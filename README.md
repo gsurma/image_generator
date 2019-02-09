@@ -10,8 +10,13 @@ Python notebook containing TensorFlow DCGAN implementation. It was trained on a 
   <img src="assets/homer.gif">
 </h3>
 
+## DCGAN
+Network architecture by [Radford et al., 2015](https://arxiv.org/abs/1511.06434).
+<img src="assets/model.png">
+
 ## Training
-Here is a visualization of training with the following hyperparameteres.
+Visualization of training with the following hyperparameteres.
+<img src="assets/epochs.gif">
 
 	IMAGE_SIZE = 128
 	NOISE_SIZE = 100
@@ -23,11 +28,10 @@ Here is a visualization of training with the following hyperparameteres.
 	WEIGHT_INIT_STDDEV = 0.02
 	EPSILON = 0.00005
 
-<img src="assets/epochs.gif">
 
 ## Results
 
-And some cherry-picked results.
+Cherry-picked generated samples.
 
 <img src="assets/final_grid_500.png">
 
