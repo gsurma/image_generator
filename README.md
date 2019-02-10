@@ -33,7 +33,7 @@ Visualization of training with the following hyperparameteres.
 
 Cherry-picked generated samples.
 
-<img src="assets/final_grid_500.png">
+<img src="assets/final_grid.png">
 
 
 As expected, there were some funny-looking malformed faces as well.
