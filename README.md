@@ -6,6 +6,12 @@
 
 Python notebook containing TensorFlow DCGAN implementation. It was trained on a [Simpsons Faces](https://www.kaggle.com/kostastokis/simpsons-faces) dataset.
 
+<br>
+
+Check out corresponding Medium article:
+
+[Image Generator - Drawing Cartoons with Generative Adversarial Networks](https://towardsdatascience.com/image-generator-drawing-cartoons-with-generative-adversarial-networks-45e814ca9b6b)
+
 <h3 align="center">
   <img src="assets/homer.gif">
 </h3>
