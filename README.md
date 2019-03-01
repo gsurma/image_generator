@@ -8,6 +8,8 @@ Python notebook containing TensorFlow DCGAN implementation. It was trained on a 
 
 <br>
 
+Check out corresponding [Kaggle Kernel](https://www.kaggle.com/greg115/image-generator-dcgan-the-simpsons-dataset).
+
 Check out corresponding Medium article:
 
 [Image Generator - Drawing Cartoons with Generative Adversarial Networks](https://towardsdatascience.com/image-generator-drawing-cartoons-with-generative-adversarial-networks-45e814ca9b6b)
